@@ -1,2 +1,4 @@
-# TurtleBot-Dijkstra
-Implementation of Dijkstra's Algorithm to solve a maze on a TurtleBot using ROS 
+# Solving Mazes using Dijkstra's Alogrithm - TurtleBot
+By Tiffany Yu and Emily Cai
+
+
