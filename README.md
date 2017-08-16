@@ -15,3 +15,6 @@ translates the results from the algorithm into specific commands for the TurtleB
 Code that connects the algorithm to the Turtlebot. This code contains the specifics of the movement
 of the robot which is implemented so that robot has gradual acceleration and deceleration and can align itself
 through detection of the difference between the distance between the two walls. Calls on maze.py and executes the solution.
+
+Result video:
+https://youtu.be/w8moK-M8WvU
